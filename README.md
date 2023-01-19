@@ -8,14 +8,17 @@ The survey took place on Linkedin, Twitter, and other platforms. About 630 parti
 
 # Key Task
 Use raw datasets for data cleaning, exploration, and visualization to understand the global data job market and address bellow questions for analysis.
-What is the most popular programming language in the data industry?
-What is the highest pay job role among survey takers?
-How do participants' age and country of origin relate to their role in the data industry?
-How difficult is it to break into Data?
-How much-satisfied the participants with their salary?
+
+1. What is the most popular programming language in the data industry?
+2. What is the highest pay job role among survey takers?
+3. How do participants' age and country of origin relate to their role in the data industry?
+4. How difficult is it to break into Data?
+5. How much-satisfied the participants with their salary?
 
 # Project Files
 Project include following files:
 
-Raw data 
-Analysis Data 
+Raw data: https://github.com/nishat-08/Raw-Data-of-Survey-Project.git
+Analysis Data : 
+
+# 
