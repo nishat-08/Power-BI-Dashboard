@@ -18,9 +18,9 @@ Use raw datasets for data cleaning, exploration, and visualization to understand
 # Project Files
 Project include following files:
 
-Raw data: gh repo clone nishat-08/Raw-Data-of-Survey-Project
+Raw data: https://github.com/nishat-08/Raw-Data-of-Survey-Project.git
 
-Analysis Data : 
+Analysis Data : https://github.com/nishat-08/Survey_Analysis.git
 
 # Procedure
 
