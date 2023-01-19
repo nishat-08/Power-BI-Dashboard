@@ -20,7 +20,7 @@ Project include following files:
 
 Raw data: https://github.com/nishat-08/Power-BI-Dashboard/blob/ff5eb1efa08345786e6a1c4a92d4aa1f21686286/RawDataSurvey.xlsx
 
-Analysis Data : https://github.com/nishat-08/Survey_Analysis.git
+Analysis Data : https://github.com/nishat-08/Power-BI-Dashboard/blob/80e708924e945e7aa4b333e11fbe6c43055a1e60/survey_project.pbix
 
 # Procedure
 
