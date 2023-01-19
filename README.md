@@ -18,7 +18,7 @@ Use raw datasets for data cleaning, exploration, and visualization to understand
 # Project Files
 Project include following files:
 
-Raw data: https://github.com/nishat-08/Raw-Data-of-Survey-Project.git
+Raw data: https://github.com/nishat-08/Power-BI-Dashboard/blob/ff5eb1efa08345786e6a1c4a92d4aa1f21686286/RawDataSurvey.xlsx
 
 Analysis Data : https://github.com/nishat-08/Survey_Analysis.git
 
